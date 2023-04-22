@@ -1,7 +1,7 @@
 # home-auto
 Custom home automation solution
 
-![Home Automation](img/Home-automation-1.png)
+![Home Automation](img/Home-auto-7.png)
 
 The proposed project is to develop a personalized home automation system that offers customized solutions to meet the unique needs of its users. The system combines hardware components with software features to create an automated system that can be easily tailored for each user.
 
